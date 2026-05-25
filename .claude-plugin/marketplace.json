@@ -1,0 +1,21 @@
+{
+  "name": "asistente-personal",
+  "owner": {
+    "name": "Victor Herrera"
+  },
+  "metadata": {
+    "description": "Marketplace del plugin Asistente Personal para Claude CoWork.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "asistente-personal",
+      "source": "./asistente-personal",
+      "description": "Tu asistente personal para Claude CoWork. Le pones nombre y lleva tu bitácora, tus tareas y tus contactos, te da resúmenes y te ayuda a cerrar el día. Funciona con Notion o con archivos locales.",
+      "version": "2.0.1",
+      "author": {
+        "name": "Victor Herrera"
+      }
+    }
+  ]
+}
